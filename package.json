@@ -1,0 +1,12 @@
+{
+  "name": "psammead-to-simorgh",
+  "version": "1.0.0",
+  "description": "Move Psammead to Simorgh",
+  "main": "index.js",
+  "repository": "git@github.com:DarioR01/psammead-to-simorgh.git",
+  "author": "Dario Russo <dario.russo@bbc.co.uk>",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^8.14.0"
+  }
+}
